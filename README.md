@@ -1,15 +1,13 @@
 ## Hey there 👋, I'm ElNiak  
   
-
-<img href="https://linkedin.com/in/christophe-crochet-5318a8182" target="_blank" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  
-
-
-
 ### Glad to see you here!  
 I’m a cybersecurity researcher and teaching assistant at UCLouvain. Being a researcher allows me to not only develop autonomy and knowledge but also develop two tools improving security and analysis.
 
 I specialize in software engineering, network security of layer 4 and have basic AI competencies. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. 
+
+<div align="center" dir="auto">
+<img href="https://linkedin.com/in/christophe-crochet-5318a8182" target="_blank" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</div>
 
 <br/>  
 
@@ -21,27 +19,26 @@ I specialize in software engineering, network security of layer 4 and have basic
   
 <table><tr><td valign="top" width="50%">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PFV)](https://github.com/ElNiak/PFV)
+<p dir="auto"><a href="https://github.com/ElNiak/PFV"><img src="https://camo.githubusercontent.com/bf794ba31aca749ea7a7aa18f0102975752ff50adabe28cef14ea5e0ef6763b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d456c4e69616b267265706f3d504656" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&amp;repo=PFV" style="max-width: 100%;"></a></p>
 
 </td><td valign="top" width="50%">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csvl&repo=SEMA-ToolChain)](https://github.com/csvl/SEMA-ToolChain)
+<p dir="auto"><a href="https://github.com/csvl/SEMA-ToolChain"><img src="https://camo.githubusercontent.com/c3924d2da9f19f4e2d62c8c151cc39c2cb70b62bbbfe5c02cf86ab4200df5a9a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6373766c267265706f3d53454d412d546f6f6c436861696e" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=csvl&amp;repo=SEMA-ToolChain" style="max-width: 100%;"></a></p>
 
 </td></tr></table>  
 
 
 <table><tr><td valign="top" width="50%">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PySSH3)](https://github.com/ElNiak/PySSH3)
+<p dir="auto"><a href="https://github.com/ElNiak/PySSH3"><img src="https://camo.githubusercontent.com/b747a1f7b1b011035f8facf04ee6d7242d5307890cf4785fd1ed645f39a858bf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d456c4e69616b267265706f3d507953534833" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&amp;repo=PySSH3" style="max-width: 100%;"></a></p>
 
 </td><td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Dorking-PenTesting)](https://github.com/ElNiak/Dorking-PenTesting)
-
+<p dir="auto"><a href="https://github.com/ElNiak/Dorking-PenTesting"><img src="https://camo.githubusercontent.com/e0f5102d8d8402768ae9bb318afdb762cac125738199088f3d862b295c317762/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d456c4e69616b267265706f3d446f726b696e672d50656e54657374696e67" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&amp;repo=Dorking-PenTesting" style="max-width: 100%;"></a></p>
 
 </td></tr></table>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=cupp-rs)](https://github.com/ElNiak/cupp-rs)
+<p dir="auto"><a href="https://github.com/ElNiak/cupp-rs"><img src="https://camo.githubusercontent.com/529f0c69acc8e9719a1441987619a78c441279bc8edf2635db111f7d5b147508/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d456c4e69616b267265706f3d637570702d7273" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&amp;repo=cupp-rs" style="max-width: 100%;"></a></p>
 
 </div>
 
